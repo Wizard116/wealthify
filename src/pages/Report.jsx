@@ -4,7 +4,7 @@ import axios from "axios";
 import tabledata from "../db.json";
 
 import * as pdfFonts from "pdfmake/build/vfs_fonts";
-import pdfFonts from "pdfmake/build/vfs_fonts"
+
 import {font} from './Ubuntu' 
 pdfMake.vfs = pdfFonts.pdfMake.vfs   
 window.pdfMake.vfs["TiroTamil-Regular.ttf"] = font
