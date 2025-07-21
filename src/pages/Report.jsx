@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import tabledata from "../db.json";
 
-import pdfMake from "pdfmake/build/pdfmake"
+import * as pdfFonts from "pdfmake/build/vfs_fonts";
 import pdfFonts from "pdfmake/build/vfs_fonts"
 import {font} from './Ubuntu' 
 pdfMake.vfs = pdfFonts.pdfMake.vfs   
