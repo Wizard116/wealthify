@@ -1,0 +1,602 @@
+[
+	{
+		"date": "Jul 2, 2024",
+		"credit": 18656,
+		"debit": 25555,
+		"custom": "Belgium"
+	},
+	{
+		"date": "Feb 10, 2025",
+		"credit": 22883,
+		"debit": 17136,
+		"custom": "Peru"
+	},
+	{
+		"date": "Mar 10, 2024",
+		"credit":26137,
+		"debit": 19360,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Jul 11, 2023",
+		"credit": 1734,
+		"debit": 31052,
+		"custom": "United States"
+	},
+	{
+		"date": "Apr 15, 2023",
+		"credit": 28530,
+		"debit": 35075,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Oct 22, 2024",
+		"credit": 43457,
+		"debit": 44415,
+		"custom": "Sweden"
+	},
+	{
+		"date": "Jan 24, 2025",
+		"credit": 36781,
+		"debit": 14257,
+		"custom": "Chile"
+	},
+	{
+		"date": "Apr 19, 2024",
+		"credit": 12998,
+		"debit": 11711,
+		"custom": "United States"
+	},
+	{
+		"date": "Sep 5, 2023",
+		"credit": 1745,
+		"debit": 22700,
+		"custom": "New Zealand"
+	},
+	{
+		"date": "Sep 18, 2023",
+		"credit": 36529,
+		"debit": 27947,
+		"custom": "France"
+	},
+	{
+		"date": "Oct 31, 2024",
+		"credit": 8121,
+		"debit": 21758,
+		"custom": "South Africa"
+	},
+	{
+		"date": "May 24, 2024",
+		"credit": 30538,
+		"debit": 7717,
+		"custom": "Ireland"
+	},
+	{
+		"date": "Jun 25, 2024",
+		"credit": 45787,
+		"debit": 32495,
+		"custom": "Belgium"
+	},
+	{
+		"date": "Feb 13, 2025",
+		"credit": 28930,
+		"debit": 21888,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Oct 26, 2023",
+		"credit": 39143,
+		"debit": 2480,
+		"custom": "Colombia"
+	},
+	{
+		"date": "May 26, 2024",
+		"credit": 25043,
+		"debit": 44510,
+		"custom": "Indonesia"
+	},
+	{
+		"date": "Nov 5, 2024",
+		"credit": 19865,
+		"debit": 26415,
+		"custom": "Pakistan"
+	},
+	{
+		"date": "Aug 18, 2024",
+		"credit": 31025,
+		"debit": 12414,
+		"custom": "Vietnam"
+	},
+	{
+		"date": "Jul 4, 2023",
+		"credit": 12847,
+		"debit": 14084,
+		"custom": "Peru"
+	},
+	{
+		"date": "Apr 24, 2023",
+		"credit": 31976,
+		"debit": 29383,
+		"custom": "Brazil"
+	},
+	{
+		"date": "Apr 20, 2023",
+		"credit": 4302,
+		"debit": 32782,
+		"custom": "Austria"
+	},
+	{
+		"date": "May 14, 2023",
+		"credit": 23167,
+		"debit": 37320,
+		"custom": "Peru"
+	},
+	{
+		"date": "Dec 28, 2023",
+		"credit": 27349,
+		"debit": 4617,
+		"custom": "Netherlands"
+	},
+	{
+		"date": "Aug 4, 2023",
+		"credit": 24632,
+		"debit": 10232,
+		"custom": "India"
+	},
+	{
+		"date": "Apr 13, 2023",
+		"credit": 7539,
+		"debit": 23788,
+		"custom": "China"
+	},
+	{
+		"date": "Apr 9, 2024",
+		"credit": 18018,
+		"debit": 21289,
+		"custom": "India"
+	},
+	{
+		"date": "Nov 30, 2023",
+		"credit": 16884,
+		"debit": 7864,
+		"custom": "Belgium"
+	},
+	{
+		"date": "Jan 15, 2025",
+		"credit": 15692,
+		"debit": 48213,
+		"custom": "South Africa"
+	},
+	{
+		"date": "Jan 3, 2024",
+		"credit": 37595,
+		"debit": 13636,
+		"custom": "Philippines"
+	},
+	{
+		"date": "Feb 9, 2025",
+		"credit": 35456,
+		"debit": 33249,
+		"custom": "United States"
+	},
+	{
+		"date": "Aug 30, 2024",
+		"credit": 140,
+		"debit": 24885,
+		"custom": "United States"
+	},
+	{
+		"date": "Jun 20, 2024",
+		"credit": 27314,
+		"debit": 18150,
+		"custom": "Colombia"
+	},
+	{
+		"date": "Aug 26, 2023",
+		"credit": 2977,
+		"debit": 1060,
+		"custom": "Spain"
+	},
+	{
+		"date": "Apr 8, 2023",
+		"credit": 16043,
+		"debit": 27301,
+		"custom": "Chile"
+	},
+	{
+		"date": "Nov 3, 2024",
+		"credit": 45953,
+		"debit": 22166,
+		"custom": "Chile"
+	},
+	{
+		"date": "Jan 28, 2025",
+		"credit": 19068,
+		"debit": 11394,
+		"custom": "Ukraine"
+	},
+	{
+		"date": "Aug 17, 2024",
+		"credit": 33432,
+		"debit": 8401,
+		"custom": "Colombia"
+	},
+	{
+		"date": "Jun 13, 2023",
+		"credit": 30185,
+		"debit": 35465,
+		"custom": "China"
+	},
+	{
+		"date": "Aug 31, 2024",
+		"credit": 20237,
+		"debit": 14654,
+		"custom": "New Zealand"
+	},
+	{
+		"date": "Feb 25, 2025",
+		"credit": 25093,
+		"debit": 16017,
+		"custom": "Italy"
+	},
+	{
+		"date": "Apr 27, 2024",
+		"credit": 24807,
+		"debit": 24571,
+		"custom": "United Kingdom"
+	},
+	{
+		"date": "Jan 10, 2025",
+		"credit": 16960,
+		"debit": 17502,
+		"custom": "Chile"
+	},
+	{
+		"date": "May 16, 2024",
+		"credit": 11901,
+		"debit": 23049,
+		"custom": "Vietnam"
+	},
+	{
+		"date": "Apr 1, 2025",
+		"credit": 43790,
+		"debit": 774,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Mar 2, 2025",
+		"credit": 36781,
+		"debit": 44326,
+		"custom": "Pakistan"
+	},
+	{
+		"date": "Jul 31, 2024",
+		"credit": 21104,
+		"debit": 28871,
+		"custom": "Spain"
+	},
+	{
+		"date": "Apr 4, 2025",
+		"credit": 15875,
+		"debit": 48141,
+		"custom": "Australia"
+	},
+	{
+		"date": "May 7, 2024",
+		"credit": 41586,
+		"debit": 20455,
+		"custom": "Spain"
+	},
+	{
+		"date": "Jul 20, 2024",
+		"credit": 48680,
+		"debit": 44020,
+		"custom": "Indonesia"
+	},
+	{
+		"date": "Apr 2, 2025",
+		"credit": 7712,
+		"debit": 44545,
+		"custom": "Chile"
+	},
+	{
+		"date": "Jul 2, 2024",
+		"credit": 4119,
+		"debit": 1941,
+		"custom": "Nigeria"
+	},
+	{
+		"date": "Nov 21, 2023",
+		"credit": 47411,
+		"debit": 33104,
+		"custom": "Turkey"
+	},
+	{
+		"date": "Mar 17, 2025",
+		"credit": 47060,
+		"debit": 31206,
+		"custom": "Canada"
+	},
+	{
+		"date": "Mar 7, 2025",
+		"credit": 5608,
+		"debit": 10528,
+		"custom": "Canada"
+	},
+	{
+		"date": "Feb 2, 2025",
+		"credit": 23122,
+		"debit": 6548,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Feb 11, 2024",
+		"credit": 1977,
+		"debit": 44786,
+		"custom": "Ukraine"
+	},
+	{
+		"date": "Jul 15, 2024",
+		"credit": 28732,
+		"debit": 23211,
+		"custom": "Italy"
+	},
+	{
+		"date": "Dec 23, 2023",
+		"credit": 3367,
+		"debit": 31445,
+		"custom": "Ukraine"
+	},
+	{
+		"date": "Sep 2, 2023",
+		"credit": 10956,
+		"debit": 44394,
+		"custom": "Spain"
+	},
+	{
+		"date": "Sep 23, 2024",
+		"credit": 48586,
+		"debit": 40965,
+		"custom": "Norway"
+	},
+	{
+		"date": "Jun 18, 2024",
+		"credit": 11952,
+		"debit": 13303,
+		"custom": "France"
+	},
+	{
+		"date": "Apr 11, 2023",
+		"credit": 45422,
+		"debit": 40451,
+		"custom": "Nigeria"
+	},
+	{
+		"date": "Feb 16, 2025",
+		"credit": 34299,
+		"debit": 27969,
+		"custom": "Philippines"
+	},
+	{
+		"date": "Jul 13, 2023",
+		"credit": 33172,
+		"debit": 46776,
+		"custom": "Poland"
+	},
+	{
+		"date": "Nov 25, 2023",
+		"credit": 47147,
+		"debit": 41012,
+		"custom": "India"
+	},
+	{
+		"date": "Apr 6, 2023",
+		"credit": 34546,
+		"debit": 45043,
+		"custom": "Austria"
+	},
+	{
+		"date": "Apr 10, 2024",
+		"credit": 43187,
+		"debit": 17861,
+		"custom": "Chile"
+	},
+	{
+		"date": "Dec 7, 2024",
+		"credit": 5635,
+		"debit": 24630,
+		"custom": "Canada"
+	},
+	{
+		"date": "Aug 6, 2023",
+		"credit": 47472,
+		"debit": 22926,
+		"custom": "Colombia"
+	},
+	{
+		"date": "Aug 3, 2023",
+		"credit": 41291,
+		"debit": 10737,
+		"custom": "India"
+	},
+	{
+		"date": "Apr 17, 2024",
+		"credit": 46625,
+		"debit": 49521,
+		"custom": "Turkey"
+	},
+	{
+		"date": "Oct 16, 2024",
+		"credit": 16257,
+		"debit": 29423,
+		"custom": "Spain"
+	},
+	{
+		"date": "Dec 27, 2024",
+		"credit": 31603,
+		"debit": 23357,
+		"custom": "Australia"
+	},
+	{
+		"date": "Dec 31, 2024",
+		"credit": 7247,
+		"debit": 20404,
+		"custom": "Peru"
+	},
+	{
+		"date": "Sep 19, 2023",
+		"credit": 30918,
+		"debit": 29771,
+		"custom": "Indonesia"
+	},
+	{
+		"date": "Dec 6, 2024",
+		"credit": 33581,
+		"debit": 23822,
+		"custom": "South Korea"
+	},
+	{
+		"date": "Jun 20, 2024",
+		"credit": 20631,
+		"debit": 12922,
+		"custom": "South Korea"
+	},
+	{
+		"date": "May 2, 2024",
+		"credit": 975,
+		"debit": 43412,
+		"custom": "Austria"
+	},
+	{
+		"date": "Mar 26, 2024",
+		"credit": 26906,
+		"debit": 47114,
+		"custom": "Ireland"
+	},
+	{
+		"date": "May 14, 2024",
+		"credit": 3623,
+		"debit": 29348,
+		"custom": "Canada"
+	},
+	{
+		"date": "Nov 17, 2023",
+		"credit": 6568,
+		"debit": 46775,
+		"custom": "Italy"
+	},
+	{
+		"date": "Jun 25, 2024",
+		"credit": 33786,
+		"debit": 2393,
+		"custom": "Costa Rica"
+	},
+	{
+		"date": "Sep 4, 2023",
+		"credit": 9375,
+		"debit": 44951,
+		"custom": "Russian Federation"
+	},
+	{
+		"date": "Oct 28, 2023",
+		"credit": 11560,
+		"debit": 44825,
+		"custom": "United States"
+	},
+	{
+		"date": "Nov 16, 2024",
+		"credit": 36290,
+		"debit": 36292,
+		"custom": "Italy"
+	},
+	{
+		"date": "Nov 25, 2024",
+		"credit": 14090,
+		"debit": 42602,
+		"custom": "Chile"
+	},
+	{
+		"date": "Feb 8, 2024",
+		"credit": 49384,
+		"debit": 279,
+		"custom": "Australia"
+	},
+	{
+		"date": "Nov 4, 2023",
+		"credit": 41973,
+		"debit": 49646,
+		"custom": "Sweden"
+	},
+	{
+		"date": "Nov 25, 2023",
+		"credit": 2980,
+		"debit": 38359,
+		"custom": "New Zealand"
+	},
+	{
+		"date": "Oct 21, 2023",
+		"credit": 23838,
+		"debit": 25554,
+		"custom": "Austria"
+	},
+	{
+		"date": "Jun 14, 2023",
+		"credit": 18356,
+		"debit": 33090,
+		"custom": "Norway"
+	},
+	{
+		"date": "Nov 11, 2023",
+		"credit": 19508,
+		"debit": 41416,
+		"custom": "United States"
+	},
+	{
+		"date": "Nov 13, 2023",
+		"credit": 10990,
+		"debit": 29551,
+		"custom": "South Africa"
+	},
+	{
+		"date": "Sep 3, 2024",
+		"credit": 5861,
+		"debit": 12475,
+		"custom": "Chile"
+	},
+	{
+		"date": "Apr 2, 2024",
+		"credit": 48933,
+		"debit": 49451,
+		"custom": "Nigeria"
+	},
+	{
+		"date": "Jul 6, 2024",
+		"credit": 36258,
+		"debit": 13256,
+		"custom": "Germany"
+	},
+	{
+		"date": "Dec 6, 2024",
+		"credit": 5062,
+		"debit": 44912,
+		"custom": "Brazil"
+	},
+	{
+		"date": "Jan 8, 2025",
+		"credit": 27582,
+		"debit": 18416,
+		"custom": "Canada"
+	},
+	{
+		"date": "Jul 6, 2024",
+		"credit": 47139,
+		"debit": 17031,
+		"custom": "France"
+	},
+	{
+		"date": "Mar 17, 2025",
+		"credit": 29646,
+		"debit": 2042,
+		"custom": "New Zealand"
+	}
+]
